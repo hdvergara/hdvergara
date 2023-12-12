@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+I am a proactive, organized, and responsible individual with excellent interpersonal skills.
+With 5 years of experience in the role of QA Automation, coupled with my experience as a manualtester, 
+I stand out for being a proactive team player with a quick decision-making ability. 
+I enjoy learning and improving in the field of testing processes, and I am interested
+in opportunities where Ican apply my knowledge and experiences to contribute to 
+the success of the company
 <!--
 **hdvergara/hdvergara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
